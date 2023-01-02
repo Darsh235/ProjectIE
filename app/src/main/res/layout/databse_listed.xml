@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/_1sdp"
+    android:background="@drawable/shape"
+    android:elevation="@dimen/_3sdp"
+    android:paddingHorizontal="@dimen/_5sdp"
+    android:paddingVertical="@dimen/_9sdp">
+
+    <TextView
+        android:id="@+id/txtDates_"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+
+        android:text="example"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_11ssp" />
+
+    <TextView
+        android:id="@+id/txtCategory_"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+
+        android:gravity="center"
+        android:text="example"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_11ssp" />
+
+    <TextView
+        android:id="@+id/txtIncome_"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/green"
+        android:textSize="@dimen/_11ssp" />
+
+    <TextView
+        android:id="@+id/txtExpense_"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="end"
+        android:text=""
+        android:textColor="@color/red"
+        android:textSize="@dimen/_11ssp" />
+
+</LinearLayout>

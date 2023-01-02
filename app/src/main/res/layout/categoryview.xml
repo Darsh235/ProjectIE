@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/_1sdp"
+    android:background="@drawable/shape"
+    android:elevation="@dimen/_3sdp"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/_5sdp"
+    android:paddingVertical="@dimen/_9sdp">
+
+
+
+    <TextView
+        android:id="@+id/Catergotyview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/bgstroke.xml" value="0.1385" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/bottomshape.xml" value="0.1525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/box_colur.xml" value="0.1385" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/drower_shape.xml" value="0.166" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/income_item.xml" value="0.1385" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/navigation_shape_bg.xml" value="0.166" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/shape.xml" value="0.1385" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/shape_box.xml" value="0.1385" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/drawable/shapecarditem.xml" value="0.1385" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/activity_add_income.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/activity_category.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/activity_display.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/activity_splace.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/categoryview.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/databse_listed.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/dilog.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/list_show.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/IncomeExpenseProject/app/src/main/res/layout/spinner_show.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
